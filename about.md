@@ -2,16 +2,14 @@
 layout: about
 title: About
 description: >
-  **Hydejack** is aa Jekyll theme with JavaScript powers, combining the best of static sites and modern web apps.
+  **Hydejack** is a Jekyll theme with JavaScript powers, combining the best of static sites and modern web apps.
   It features a suite of JavaScript that makes the page feel like an app, without sacrificing backwards-compatibility,
   page-load speed or SEO.
 menu: true
 order: 4
 ---
 
-**Hydejack** is the complete package for professionals on the web.
-It features a blog suitable for both prose and technical documentation,
-a showcase for your projects, and a resume that is well-integrated with the design.
+The integration of technology and aging research is a passion of mine. Aging digitally is the next phase in aging research. The vast amount of information that can be acquired through technology and devices is a great resource that needs to be used and studied. It is my goal for the future to create and implement systems that blend ease of use and wealth of data.
 
 > Your presence on the web --- A [blog], a [portfolio] and a [resume].
 {:.lead}
